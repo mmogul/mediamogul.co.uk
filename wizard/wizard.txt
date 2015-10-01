@@ -1,5 +1,5 @@
 name="Link 1 - 0.0.1 mediamogul.co.uk KODI 15 Fully Loaded Setup"
-url="http://bit.ly/1KMKwq1"
+url="ftp://media:downstairs@ftp.mediamogul.co.uk/backup/latest.zip"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.jpg"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.jpg"
 description="Media Mogul KODI 15 Fully Loaded Set-up"
