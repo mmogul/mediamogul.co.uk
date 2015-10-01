@@ -1,0 +1,11 @@
+name="Link 1 - 0.0.1 mediamogul.co.uk KODI 15 Fully Loaded Setup"
+url="http://bit.ly/1KMKwq1"
+img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.jpg"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.jpg"
+description="Media Mogul KODI 15 Fully Loaded Set-up"
+
+name="Link 2 - 0.0.1 mediamogul.co.uk KODI 15 Fully Loaded Setup"
+url="http://bit.ly/hushamwizard084a"
+img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.jpg"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.jpg"
+description="Media Mogul KODI 15 Fully Loaded Set-up"
