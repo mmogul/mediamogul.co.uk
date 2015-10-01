@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.mediamogul" name="Media Modul Repo" version="1.0" provider-name="mediamogul">
+	<extension point="xbmc.addon.repository" name="Media Mogul Repository">
+		<info compressed="false">https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Media Mogul</summary>
+		<description>Install and Recover from Media Mogul</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
