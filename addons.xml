@@ -12,4 +12,19 @@
 		<platform>all</platform>
 	</extension>
 </addon>
+
+<addon id="plugin.video.mediamogulwizard" name="Media Mogul Wizard" version="1.0.0" provider-name="www.mediamogul.co.uk">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Media Mogul Wizard</summary>
+    <description lang="en">Easy Install With KODI / XBMC Wizard.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 </addons>
