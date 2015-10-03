@@ -11,7 +11,7 @@ fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/
 description="Media Mogul Fully Loaded Set-up."
 
 name="ADD Media Mogul REPO"
-url="3"
+url="https://www.dropbox.com/s/awxr8afx7jeevjn/mmrepowizard.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrepo.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrepo.png"
 description="Media Mogul REPO"
