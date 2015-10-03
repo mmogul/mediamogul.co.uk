@@ -15,7 +15,7 @@ import ntpath
 
 USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3'
 base='http://www.mediamogul.co.uk'
-ADDON=xbmcaddon.Addon(id='plugin.video.mediamogulwizard')
+ADDON=xbmcaddon.Addon(id='plugin.program.mediamogulwizard')
 dialog = xbmcgui.Dialog()    
 VERSION = "1.0.4"
 PATH = "Media Mogul Wizard"            
