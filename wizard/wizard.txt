@@ -16,7 +16,7 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mma
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmasian.png"
 description="Coming Soon"
 
-name="Coming Soon"
+name="Coming Soon.."
 url=""
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmafrican.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmafrican.png"
@@ -28,7 +28,7 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmr
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrepo.png"
 description="Media Mogul REPO"
 
-name="Coming Soon"
+name="Coming Soon..."
 url=""
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcomingsoon.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcomingsoon.png"
@@ -40,13 +40,13 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmc
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcomingsoon.png"
 description="Coming Soon"
 
-name="Coming Soon"
+name="Coming Soon...."
 url=""
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcomingsoon.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcomingsoon.png"
 description="Coming Soon"
 
-name="Coming Soon"
+name="Coming Soon....."
 url=""
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcomingsoon.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcomingsoon.png"
