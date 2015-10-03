@@ -1,14 +1,14 @@
 name="Link 1 - Install / Restore"
-url="https://www.dropbox.com/s/xvjgtmjqgsqa6w4/latest.zip?dl=1"
+url="https://www.dropbox.com/s/w0zufr9foxve9pb/latest.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrest.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrest.png"
 description="Media Mogul Fully Loaded Set-up"
 
 name="Link 2 - Install / Restore"
 url="http://bit.ly/1VrNSlf"
-img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
-fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
-description="Media Mogul Fully Loaded Set-up"
+img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrest.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrest.png"
+description="Media Mogul Fully Loaded Set-up."
 
 name="ADD Media Mogul REPO"
 url="3"
