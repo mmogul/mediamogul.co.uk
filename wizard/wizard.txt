@@ -6,8 +6,8 @@ description="Media Mogul Fully Loaded Set-up"
 
 name="Link 2 - Install / Restore"
 url="http://bit.ly/1VrNSlf"
-img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.jpg"
-fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.jpg"
+img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
 description="Media Mogul Fully Loaded Set-up"
 
 name="ADD Media Mogul REPO"
