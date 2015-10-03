@@ -17,7 +17,7 @@ fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/
 description="Media Mogul ASAIAN	Customise"
 
 name="AFRICAN Channels - mediamogul.co.uk for favourites list."
-url="http://bit.ly/1VrNSlf"
+url="https://www.dropbox.com/s/w0zufr9foxve9pb/latest.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmafrican.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmafrican.png"
 description="Media Mogul AFRICAN Customise"
