@@ -51,4 +51,3 @@ url="https://www.dropbox.com/s/w59t8csc46zsfua/mmafrican.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmafrican.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmafrican.png"
 description="Add African Channels To TOP Favourites List"
-
