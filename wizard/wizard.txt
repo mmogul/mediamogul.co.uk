@@ -16,6 +16,12 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmr
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrefresh.png"
 description="Refresh Original Channel List in Favourites"
 
+name="ADD NEWS CHANNELS"
+url="https://www.dropbox.com/s/co9e4a0vk4kysje/mmnews.zip?dl=1"
+img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcomingsoon.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcomingsoon.png"
+description="Add NEWS Channels to TOP of Favourites List"
+
 name="ADD Media Mogul REPO"
 url="https://www.dropbox.com/s/awxr8afx7jeevjn/mmrepowizard.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrepo.png"
@@ -46,8 +52,3 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mma
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmafrican.png"
 description="Add African Channels To TOP Favourites List"
 
-name="Coming Soon."
-url="1"
-img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcomingsoon.png"
-fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcomingsoon.png"
-description="Coming Soon"
