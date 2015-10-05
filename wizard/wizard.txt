@@ -46,8 +46,8 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmp
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmpakistani.png"
 description="Add Pakistani Channels To TOP Favourites List"
 
-name="ADD Media Mogul REPOSITORY"
-url="https://www.dropbox.com/s/awxr8afx7jeevjn/mmrepowizard.zip?dl=1"
-img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrepo.png"
-fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrepo.png"
-description="Install or Restore Media Mogul REPO"
+name="ADD ADULT Channels To TOP Favourites List"
+url="https://www.dropbox.com/s/jpviedtwmutqmmk/mmadult.zip?dl=1"
+img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmadult.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmadult.png"
+description="ADD ADULT Channels To TOP Favourites List"
