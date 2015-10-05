@@ -22,11 +22,11 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmn
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmnews.png"
 description="Add NEWS Channels to TOP of Favourites List"
 
-name="COMING SOON (Add African Channels To TOP Favourites List)"
+name="Add African Channels To TOP Favourites List"
 url="https://www.dropbox.com/s/w59t8csc46zsfua/mmafrican.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmafrican.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmafrican.png"
-description="COMING SOON (Add African Channels To TOP Favourites List)"
+description="Add African Channels To TOP Favourites List"
 
 name="Add Indian Channels To TOP Favourites List"
 url="https://www.dropbox.com/s/4foin0ufs8cwu3p/mmindian.zip?dl=1"
