@@ -16,6 +16,12 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmb
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmbeta.png"
 description="MEDIA MOGUL EPG BETA BUILD"
 
+name="Install MEDIA Mogul Repository"
+url="https://www.dropbox.com/s/p9x5r3782a7nwbx/mmrepowizard.zip?dl=1""
+img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrepo.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrepo.png"
+description="Install MEDIA Mogul Repository"
+
 name="Restore MEDIA Mogul Default Favourites List"
 url="https://www.dropbox.com/s/r6ub2y4jmu3mxas/mmfavourites.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrefresh.png"
