@@ -5,7 +5,7 @@
 		<setting id="portal_name_1" type="text" label="30000" default="NFPS" />
    	 	<setting id="portal_url_1" type="text" label="30001" default="http://portal.iptvprivateserver.tv" />
    	 	<setting label="30008" type="bool" id="custom_mac_1" default="true"/>
-   	 	<setting id="portal_mac_1" type="text" label="30002" default="00:1A:79:12:34:89" visible="false" />
+   	 	<setting id="portal_mac_1" type="text" label="30002" default="00:1A:78:8C:41:F0" visible="false" />
    	 	
    	 	<setting label="30009" type="bool" id="send_serial_1" default="true"/>
    	 	<setting label="30014" type="bool" id="custom_serial_1" default="false" visible="eq(-1,true)"/>
@@ -18,12 +18,12 @@
     </category>
     
     <category label="33002">
-		<setting id="portal_name_2" type="text" label="30000" />
-    	<setting id="portal_url_2" type="text" label="30001" />
-   	 	<setting label="30008" type="bool" id="custom_mac_2" default="false"/>
-   	 	<setting id="portal_mac_2" type="text" label="30002" default="" visible="eq(-1,true)" />
+		<setting id="portal_name_2" type="text" label="30000" default="RocketTV" />
+    	<setting id="portal_url_2" type="text" label="30001" default="http://portal.iptvrocket.tv" />
+   	 	<setting label="30008" type="bool" id="custom_mac_2" default="true"/>
+   	 	<setting id="portal_mac_2" type="text" label="30002" default="00:1A:78:8C:41:F0" visible="false" />
    	 	
-   	 	<setting label="30009" type="bool" id="send_serial_2" default="false"/>
+   	 	<setting label="30009" type="bool" id="send_serial_2" default="true"/>
    	 	<setting label="30014" type="bool" id="custom_serial_2" default="false" visible="eq(-1,true)"/>
    	 	<setting type="sep"/>
    	 	<setting label="30010" type="text" id="serial_number_2" default="" visible="eq(-2,true) + eq(-3,true)"/>
@@ -33,12 +33,12 @@
     </category>
     
     <category label="33003">
-		<setting id="portal_name_3" type="text" label="30000" />
-    	<setting id="portal_url_3" type="text" label="30001" />
-   	 	<setting label="30008" type="bool" id="custom_mac_3" default="false"/>
-   	 	<setting id="portal_mac_3" type="text" label="30002" default="" visible="eq(-1,true)" />
+		<setting id="portal_name_3" type="text" label="30000" default="IPTV66" />
+    	<setting id="portal_url_3" type="text" label="30001" default="http://mw1.iptv66.tv" />
+   	 	<setting label="30008" type="bool" id="custom_mac_3" default="true"/>
+   	 	<setting id="portal_mac_3" type="text" label="30002" default="00:1A:78:8C:41:F0" visible="false" />
    	 	
-   	 	<setting label="30009" type="bool" id="send_serial_3" default="false"/>
+   	 	<setting label="30009" type="bool" id="send_serial_3" default="true"/>
    	 	<setting label="30014" type="bool" id="custom_serial_3" default="false" visible="eq(-1,true)"/>
    	 	<setting type="sep"/>
    	 	<setting label="30010" type="text" id="serial_number_3" default="" visible="eq(-2,true) + eq(-3,true)"/>

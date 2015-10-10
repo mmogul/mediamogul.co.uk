@@ -1,4 +1,4 @@
-import sys
+﻿import sys
 import os
 import json
 import urllib
@@ -26,8 +26,7 @@ go = True;
 #xbmcgui.Dialog().ok(addonname, 'aaa')
 
 xbmcplugin.setContent(addon_handle, 'movies')
-	
-load_channels.clearCache('http://portal.iptvprivateserver.tv', addondir)
+
 
 
 
