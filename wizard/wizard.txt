@@ -10,6 +10,12 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmi
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrest.png"
 description="Install or restore MEDIA Mogul Platform"
 
+name="MEDIA MOGUL EPG BETA BUILD"
+url="http://bit.ly/1VrNSls""
+img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrepo.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrepo.png"
+description="MEDIA MOGUL EPG BETA BUILD"
+
 name="Restore MEDIA Mogul Default Favourites List"
 url="https://www.dropbox.com/s/r6ub2y4jmu3mxas/mmfavourites.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrefresh.png"
@@ -51,9 +57,3 @@ url="https://www.dropbox.com/s/jpviedtwmutqmmk/mmadult.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmadult.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmadult.png"
 description="ADD ADULT Channels To TOP Favourites List"
-
-name="MEDIA MOGUL EPG BETA BUILD"
-url="http://bit.ly/1VrNSls""
-img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrepo.png"
-fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmrepo.png"
-description="MEDIA MOGUL EPG BETA BUILD"
