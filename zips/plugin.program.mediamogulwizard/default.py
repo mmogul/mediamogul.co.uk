@@ -39,7 +39,12 @@ def OPEN_URL(url):
     
     
 def wizard(name,url,description):
-    path = xbmc.translatePath(os.path.join('special://home/addons','packages'))
+    MyItem = xbmcgui.Dialog().yesno(name, '    Would you like to download the selected item?', nolabel='Cancel',yeslabel='Continue')
+    if MyItem == 0:
+        return
+    elif MyItem == 1:
+        pass
+	path = xbmc.translatePath(os.path.join('special://home/addons','packages'))
     dp = xbmcgui.DialogProgress()
     dp.create("Media Mogul Wizard","Downloading ",'', 'Please Wait')
     lib=os.path.join(path, name+'.zip')
@@ -56,7 +61,8 @@ def wizard(name,url,description):
     print '======================================='
     extract.all(lib,addonfolder,dp)
     dialog = xbmcgui.Dialog()
-    dialog.ok("DOWNLOAD COMPLETE", 'Unfortunately the only way to get the new changes to stick is', 'to force close kodi. Click ok to force Kodi to close,', 'DO NOT use the quit/exit options in Kodi., If the Force close does not close for some reason please Restart Device or kill task manaully')
+    dialog.ok("DOWNLOAD COMPLETE", '													****IF YOU RESTORED FAVOURITES, IGNORE THE FOLLOWING MESSAGE.****  Unfortunately the only way to get the new changes to stick is', 'to force close kodi. Click ok to force Kodi to close,', 'DO NOT use the quit/exit options in Kodi., If the Force close does not close for some reason please Restart Device or kill task manaully')
+	
     killxbmc()
         
       

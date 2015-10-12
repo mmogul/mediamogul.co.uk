@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="plugin.video.ryanreggaendancehallmusic"
+  version="1.0.4"
+  name="Ryan Reggae n Dancehall music"
+  provider-name="Husham.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.buggalo" version="1.1.2"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Addon made by Husham Memar and Ryan Lovinn Gemz </summary>
+    <description>The Ryan Lovinn Gemz Reggae n Dancehall music</description>
+   
+    <platform>all</platform>
+  </extension>
+</addon>
