@@ -34,6 +34,12 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmn
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmnews.png"
 description="Add NEWS Channels to TOP of Favourites List"
 
+name="Add Music Channels to TOP of Favourites List"
+url="https://www.dropbox.com/s/85pyo9kxr30w0lv/mmmusic.zip?dl=1"
+img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmmusic.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmmusic.png"
+description="Add Music Channels to TOP of Favourites List"
+
 name="Add African Channels To TOP Favourites List"
 url="https://www.dropbox.com/s/w59t8csc46zsfua/mmafrican.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmafrican.png"
