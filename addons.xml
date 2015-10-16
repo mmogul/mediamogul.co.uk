@@ -47,7 +47,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.stalker" name="Mogul Stalker" version="10.0.20" provider-name="Media Mogul">
+<addon id="plugin.video.stalker" name="Mogul Stalker" version="10.0.21" provider-name="Media Mogul">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
@@ -57,13 +57,11 @@
 	<extension point="xbmc.service" library="server.py" start="startup" />
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<summary lang="en">IPTV Stalker</summary>
-		<description lang="en">IPTV Stalker</description>
+		<summary lang="en">Media Mogul</summary>
+		<description lang="en">Media Mogul IPTV Stalker Build</description>
 		<license>GNU General Public License, v2</license>
 		<language></language>
-		<forum>http://iptvtalk.org/showthread.php?2514-Kodi-Stalker-video-add-on-all-platforms</forum>
-		<source>https://github.com/mmogul/mediamogul.co.uk/tree/master/zips/plugin.video.stalker</source>
-		<email>info@mediamogul.co.uk</email>
+		
 	</extension>
 </addon>
 
@@ -108,6 +106,31 @@
     <description>The Ryan Lovinn Gemz Reggae n Dancehall music</description>
    
     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.mmogulmaintenance"
+       name="Media Mogul Maintenance"
+       version="1.0.0"
+       provider-name="Media Mogul">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Raw Maintinance</summary>
+    <description>
+	Your one stop tool for maintaining your device. 
+	For support please visit www.mediamogul.co.uk 
+    </description>
+    <language></language>
+    <license></license>
+    <source></source>
+    <forum></forum>
+    <website></website>
   </extension>
 </addon>
 
