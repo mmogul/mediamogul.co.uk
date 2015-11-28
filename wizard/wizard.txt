@@ -32,7 +32,7 @@ name="Add KIDS Channels to TOP of Favourites List and ENABLE PARENTAL CONTROLS"
 url="https://www.dropbox.com/s/nv1etkq1at7awnq/mmkids.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmkids.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmkids.png"
-description="Add KIDS Channels to TOP of Favourites List and ENABLE PARENTAL CONTROLS"
+description="Add KIDS Channels to TOP of Favourites List and ENABLE PARENTAL CONTROLS YOU MUST CONTACT VIA EMAIL FOR MASTER CODE"
 
 name="Add NEWS Channels to TOP of Favourites List"
 url="https://www.dropbox.com/s/co9e4a0vk4kysje/mmnews.zip?dl=1"
