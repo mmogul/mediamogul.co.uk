@@ -11,7 +11,7 @@ fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/
 description="Install or restore MEDIA Mogul Platform"
 
 name="MEDIA MOGUL EPG BETA BUILD"
-url="https://www.dropbox.com/s/r04zddgmilcslc5/Beta.zip?dl=1""
+url="https://drive.google.com/open?id=0B5V0kZeOVSeSeC1ac2d3dXdURGc"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmbeta.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmbeta.png"
 description="MEDIA MOGUL EPG BETA BUILD"
