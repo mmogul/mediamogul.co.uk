@@ -10,11 +10,11 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmi
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrest.png"
 description="Install or restore MEDIA Mogul Platform"
 
-name="MEDIA MOGUL EPG BETA BUILD"
-url="https://drive.google.com/file/d/0B5V0kZeOVSeSeC1ac2d3dXdURGc/view?usp=sharing"
+name="MEDIA MOGUL PLUGIN BETA BUILD"
+url="https://www.dropbox.com/s/r04zddgmilcslc5/Beta.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmbeta.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmbeta.png"
-description="MEDIA MOGUL EPG BETA BUILD"
+description="MEDIA MOGUL PLUGIN BETA BUILD"
 
 name="Install MEDIA Mogul Repository"
 url="https://www.dropbox.com/s/p9x5r3782a7nwbx/mmrepowizard.zip?dl=1""
