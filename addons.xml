@@ -13,7 +13,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.program.mediamogulwizard" name="Media Mogul Wizard" version="1.0.1" provider-name="www.mediamogul.co.uk">
+<addon id="plugin.program.mediamogulwizard" name="Media Mogul Wizard" version="1.0.2" provider-name="www.mediamogul.co.uk">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -25,6 +25,20 @@
     <description lang="en">Easy Install With KODI / XBMC Wizard.</description>
     <platform>all</platform>
   </extension>
+</addon>
+
+<addon id="plugin.video.mediamogulurban" version="0.0.1" name="Mogul Urban Directory" provider-name="Media Mogul">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Media Mogul Urban Directory</summary>
+        <description>Media Mogul Urban Directory.</description>
+        <platform>all</platform>
+    </extension>
 </addon>
 
 <addon id="script.tvguidetecbox" name="iVue TV Guide" version="6.0.24" provider-name="TECBOX DreamHD">
