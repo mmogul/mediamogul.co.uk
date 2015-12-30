@@ -22,7 +22,7 @@ PATH = "Media Mogul Wizard"
 
     
 def CATEGORIES():
-    link = OPEN_URL('https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/wizard.txt').replace('\n','').replace('\r','')
+    link = OPEN_URL('https://www.dropbox.com/s/h610fslc02qwpgp/wizard.txt?dl=1').replace('\n','').replace('\r','')
     match = re.compile('name="(.+?)".+?rl="(.+?)".+?mg="(.+?)".+?anart="(.+?)".+?escription="(.+?)"').findall(link)
     for name,url,iconimage,fanart,description in match:
         addDir(name,url,1,iconimage,fanart,description)
