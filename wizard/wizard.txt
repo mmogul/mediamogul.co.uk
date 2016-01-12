@@ -10,6 +10,12 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmi
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrest.png"
 description="Install or restore MEDIA Mogul Platform"
 
+name="PATCH MEDIA MOGUL BUILD"
+url="https://www.dropbox.com/s/yw1fh7eu5cuff7p/mmpatch.zip?dl=1"
+img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmpatch.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmpatch.png"
+description="PATCH MEDIA MOGUL BUILD"
+
 name="MEDIA MOGUL PLUGIN BETA BUILD"
 url="https://www.dropbox.com/s/r04zddgmilcslc5/Beta.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmbeta.png"
