@@ -10,6 +10,12 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmi
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv16.png"
 description="Install or Restore MEDIA Mogul Custom Platform over the AIR"
 
+name="V17 ONLY--- Install or Restore MEDIA Mogul Custom Platform over the AIR GOTO SYSTEM ---+ System Info to CHECK your CURRENT version of KODI -+- MEDIA MOGUL if you are ---UNSURE--- what version you NEED"
+url="https://www.dropbox.com/s/kqftx5ehp9agpql/latestv17.zip?dl=1"
+img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv17.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv17.png"
+description="Install or Restore MEDIA Mogul Custom Platform over the AIR"
+
 name="PATCH MEDIA MOGUL BUILD"
 url="https://www.dropbox.com/s/yw1fh7eu5cuff7p/mmpatch.zip?dl=1"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmpatch.png"
