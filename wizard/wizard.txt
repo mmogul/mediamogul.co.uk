@@ -16,6 +16,12 @@ img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmi
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv17.png"
 description="Install or Restore MEDIA Mogul Custom Platform over the AIR"
 
+name="V18 ONLY--- Install or Restore MEDIA Mogul Custom Platform over the AIR GOTO SYSTEM ---+ System Info to CHECK your CURRENT version of KODI -+- MEDIA MOGUL if you are ---UNSURE--- what version you NEED"
+url="http://bit.ly/mmbuildv18"
+img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv18.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv18.png"
+description="ONLY FOR KODI 18 Release Candidate TEST"
+
 name="SPMC ONLY--- Install or Restore MEDIA Mogul Custom Platform over the AIR"
 url="http://bit.ly/2lrXQJo"
 img="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestspmc.png"
