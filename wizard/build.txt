@@ -60,7 +60,7 @@ description="MEDIA MOGUL PLUGIN BETA BUILD"
 
 name="MM V18 Build Standard"
 version="0.1"
-url="https://www.mediamogul.co.uk/repo/latestv18.zip"
+url="http://bit.ly/mmbuildv17"
 gui="http://"
 kodi="18.0"
 theme="http://"
