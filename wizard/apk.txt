@@ -16,7 +16,7 @@ description="Terrerium TV"
 
 name="Media Mogul v18 Beta App"
 section="yes"
-url="http://bit.ly/mm17glt"
+url="http://bit.ly/mmv18app"
 icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv18.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv18.png"
 adult="No"
