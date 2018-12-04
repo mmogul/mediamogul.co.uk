@@ -13,3 +13,11 @@ icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mm
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
 adult="No"
 description="Terrerium TV"
+
+name="MM v17 Test"
+section="no"
+url="http://bit.ly/mm17glt"
+icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv17.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv17.png"
+adult="No"
+description="MEDIA MOGUL V17.6"
