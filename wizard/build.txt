@@ -23,7 +23,7 @@ adult="No"
 description="V16 ONLY --- Install or Restore MEDIA Mogul Custom Platform over the AIR"
 
 name="MM V17 Build Standard"
-version="0.2"
+version="0.1"
 url="http://bit.ly/mmbuildv17"
 gui="http://"
 kodi="17.0"
