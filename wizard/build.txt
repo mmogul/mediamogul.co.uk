@@ -34,7 +34,7 @@ preview="http://"
 adult="No"
 description="V17 ONLY Current Media Mogul Build--- Install or Restore MEDIA Mogul Custom Platform over the AIR"
 
-name="MM v17 Adult XXX Build xxx NOT READY xxx"
+name="MM v17 Adult XXX Build"
 version="0.1"
 url="https://www.dropbox.com/s/0m69ecem0yb2npz/latestv17-Adults.zip?dl=1"
 gui="http://"
