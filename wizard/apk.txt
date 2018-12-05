@@ -1,5 +1,5 @@
 name="Media Mogul Core Apps"
-section="no"
+section="yes"
 url="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/apk/mediamogul.txt"
 icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmapks.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmapks.png"
