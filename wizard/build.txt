@@ -68,6 +68,6 @@ icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mm
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv18b.png"
 preview="http://"
 adult="No"
-description="V18 ONLY TESTING--- Install or Restore MEDIA Mogul Custom Platform over the AIR"
+description="V18 ONLY --- Install or Restore MEDIA Mogul Custom Platform over the AIR"
 
 
