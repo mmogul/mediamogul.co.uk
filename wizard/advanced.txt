@@ -1,0 +1,13 @@
+name="Jarvis Advanced Settings"
+section="yes"
+url="https://wizard.supremebuilds.com/texts/jarvisadvanced.txt"
+icon="https://wizard.supremebuilds.com/apks/icon.png" 
+fanart="https://wizard.supremebuilds.com/apks/fanart.png"
+description="Advanced Settings XML Files for Devices Running Jarvis"
+
+name="Krypton Advanced Settings"
+section="yes"
+url="https://wizard.supremebuilds.com/texts/kryptonadvanced.txt"
+icon="https://wizard.supremebuilds.com/apks/icon.png" 
+fanart="https://wizard.supremebuilds.com/apks/fanart.png"
+description="Advanced Settings XML Files for Devices Running Krypton"
