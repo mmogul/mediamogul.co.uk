@@ -58,7 +58,7 @@ preview="http://"
 adult="No"
 description="MEDIA MOGUL PLUGIN BETA BUILD"
 
-name="MM v18 BETA Build (NOT READY)"
+name="MM v18 BETA Build >>NOT READY<<"
 version="0.1"
 url="http://bit.ly/mmbuildv18"
 gui="http://"
