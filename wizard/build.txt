@@ -34,7 +34,7 @@ preview="http://"
 adult="No"
 description="V17 ONLY Current Media Mogul Build--- Install or Restore MEDIA Mogul Custom Platform over the AIR"
 
-name="MM v17 Light Build"
+name="MM v17 LITE Build"
 version="0.1"
 url="http://bit.ly/mmbuildv17L"
 gui="http://"
