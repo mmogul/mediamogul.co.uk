@@ -2,7 +2,7 @@
 |||
 [B]WELCOME TO MEDIA MOGUL STREAMING PLATFORM.[/B]
  
-[COLOR red]Thank you for using the Media Mogul Toolkit[/COLOR]
+[B][COLOR green]Thank you for using the Media Mogul Toolkit[/COLOR][/B]
 
 
 
@@ -32,15 +32,16 @@ Email. info@mediamogul.co.uk
 Tel. 08712340136
 [COLOR red]**************************************************[/COLOR]
 
+[B]SOCIAL MEDIA LINKS[/B]
 
 [COLOR red]**************************************************[/COLOR]
-F.	https://www.facebook.com/mediamoguluk
+F.    https://www.facebook.com/mediamoguluk
 [COLOR red]**************************************************[/COLOR]
-T.	https://twitter.com/mediamoguluk
+T.    https://twitter.com/mediamoguluk
 [COLOR red]**************************************************[/COLOR]
-I.	https://www.instagram.com/mediamoguluk/
+I.    https://www.instagram.com/mediamoguluk/
 [COLOR red]**************************************************[/COLOR]
-L.	https://www.linkedin.com/in/mediamoguluk
+L.    https://www.linkedin.com/in/mediamoguluk
 [COLOR red]**************************************************[/COLOR]
 [COLOR green]**************************************************[/COLOR]
 [COLOR BLUE]**************************************************[/COLOR]
