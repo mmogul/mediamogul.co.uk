@@ -2,11 +2,22 @@
 |||
 [B]WELCOME TO MEDIA MOGUL STREAMING PLATFORM.[/B]
  
-Thank you for using Media Mogul Toolkit
+[COLOR red]Thank you for using the Media Mogul Toolkit[/COLOR]
 
 
 
-*********** NEWS ***************
+[COLOR cyan]********************   NEWS   ********************[/COLOR]
+
+MEDIA MOGUL WIZARD HAS BEEN UDATED TO TOOLKIT.
+USING THIS TOOLKIT YOU SHOULD DOWNLOAD
+THE LATEST BUILD ASAP AND CHOOSE FRESH INSTALL.
+
+YOU SHOULD ALL UPDATE YOUR MEDIA MOGUL APP.
+EVEN IF YOU HAVE v17 GO TO THE APK INSTALLER
+IN THE TOOLKIT, CHOOSE "MM CORE APPS",
+THEN SELECT "MM v17 CORE APP"
+
+[COLOR cyan]********************   NEWS   ********************[/COLOR]
 
 PLEASE REGISTER ON OUR FORUM....
 
@@ -22,13 +33,13 @@ Tel. 08712340136
 
 
 **************************************************
-https://www.facebook.com/mediamoguluk
+F.	https://www.facebook.com/mediamoguluk
 [COLOR red]**************************************************[/COLOR]
-https://twitter.com/mediamoguluk
+T.	https://twitter.com/mediamoguluk
 **************************************************
-https://www.instagram.com/mediamoguluk/
+I.	https://www.instagram.com/mediamoguluk/
 **************************************************
-https://www.linkedin.com/in/mediamoguluk
+L.	https://www.linkedin.com/in/mediamoguluk
 **************************************************
 [COLOR red]**************************************************[/COLOR]
 
