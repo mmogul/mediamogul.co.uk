@@ -1,6 +1,6 @@
 36
 |||
-WELCOME TO MEDIA MOGUL STREAMING PLATFORM.
+[B]bold WELCOME TO MEDIA MOGUL STREAMING PLATFORM. [/B]
  
 Thank you for using Media Mogul Toolkit
 
