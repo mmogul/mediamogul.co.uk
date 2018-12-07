@@ -6,7 +6,7 @@
 
 
 
-[COLOR cyan]********************   NEWS   ********************[/COLOR]
+[B][COLOR cyan]********************   NEWS   ********************[/COLOR][/B]
 
 MEDIA MOGUL WIZARD HAS BEEN UDATED TO TOOLKIT.
 USING THIS TOOLKIT YOU SHOULD DOWNLOAD
@@ -17,29 +17,31 @@ EVEN IF YOU HAVE v17!! GO TO THE APK INSTALLER
 IN THE TOOLKIT, CHOOSE "MM CORE APPS",
 THEN SELECT "MM v17 CORE APP"
 
-[COLOR cyan]********************   NEWS   ********************[/COLOR]
+[B][COLOR cyan]********************   NEWS   ********************[/COLOR][/B]
+
 
 PLEASE REGISTER ON OUR FORUM....
 
-SUPPORT US AT :---
+[COLOR yellow]SUPPORT US AT :---[/COLOR]
 
-**************************************************
-https://www.mediamogul.co.uk
-**************************************************
+[COLOR red]**************************************************[/COLOR]
+[B]https://www.mediamogul.co.uk[/B]
+[COLOR red]**************************************************[/COLOR]
 Email. info@mediamogul.co.uk
-**************************************************
+[COLOR red]**************************************************[/COLOR]
 Tel. 08712340136
-**************************************************
+[COLOR red]**************************************************[/COLOR]
 
 
-**************************************************
+[COLOR red]**************************************************[/COLOR]
 F.	https://www.facebook.com/mediamoguluk
 [COLOR red]**************************************************[/COLOR]
 T.	https://twitter.com/mediamoguluk
-**************************************************
-I.	https://www.instagram.com/mediamoguluk/
-**************************************************
-L.	https://www.linkedin.com/in/mediamoguluk
-**************************************************
 [COLOR red]**************************************************[/COLOR]
+I.	https://www.instagram.com/mediamoguluk/
+[COLOR red]**************************************************[/COLOR]
+L.	https://www.linkedin.com/in/mediamoguluk
+[COLOR red]**************************************************[/COLOR]
+[COLOR green]**************************************************[/COLOR]
+[COLOR BLUE]**************************************************[/COLOR]
 
