@@ -1,27 +1,50 @@
-36
+37
 |||
-[COLOR white][B]WELCOME TO MEDIA MOGUL STREAMING PLATFORM.
+[B]WELCOME TO MEDIA MOGUL STREAMING PLATFORM.[/B]
  
-Thank you for using Media Mogul Toolkit / Wizard.
+[B][COLOR yellow]Thank you for using the Media Mogul Toolkit[/COLOR][/B]
 
-*********** NEWS ***************
+[B][COLOR pink]CURRENT BUILD ===>>>[/COLOR]  [B][COLOR green]v0.1[/COLOR][/B]
 
-PLEASE REGISTER ON OUR FORUM....
+[B][COLOR cyan]******************   NEWS   ******************[/COLOR][/B]
 
-SUPPORT US AT :---
-**************************************************
-https://www.facebook.com/mediamoguluk
-**************************************************
-https://twitter.com/mediamoguluk
-**************************************************
-https://www.instagram.com/mediamoguluk/
-**************************************************
-https://www.linkedin.com/in/mediamoguluk
-**************************************************
-https://www.mediamogul.co.uk
-**************************************************
+MEDIA MOGUL WIZARD HAS BEEN UDATED TO TOOLKIT.
+USING THIS TOOLKIT YOU SHOULD DOWNLOAD
+THE LATEST BUILD ASAP AND CHOOSE FRESH INSTALL.
+
+YOU SHOULD ALL UPDATE YOUR MEDIA MOGUL APP TO v17.
+EVEN IF YOU HAVE v17!! GO TO THE APK INSTALLER
+IN THE TOOLKIT, CHOOSE "MM CORE APPS",
+THEN SELECT "MM v17 CORE APP"
+
+FOR OLD SLOW FIRESTICKS (GEN.1), THERE IS A [B][COLOR yellow]"LITE"[/COLOR][/B] BUILD.
+FEEL FREE TO GIVE IT A TRY...
+
+[B][COLOR cyan]******************   NEWS   ******************[/COLOR][/B]
+
+
+[COLOR pink]PLEASE REGISTER ON OUR [B]FORUM....[/B][/COLOR]
+
+[COLOR yellow]SUPPORT US AT :---[/COLOR]
+
+[COLOR red]**************************************************[/COLOR]
+[B]https://www.mediamogul.co.uk[/B]
+[COLOR red]**************************************************[/COLOR]
 Email. info@mediamogul.co.uk
-**************************************************
+[COLOR red]**************************************************[/COLOR]
 Tel. 08712340136
-**************************************************
-[/B][/COLOR]
+[COLOR red]**************************************************[/COLOR]
+
+[B]SOCIAL MEDIA LINKS[/B]
+
+[COLOR red]**************************************************[/COLOR]
+F.    https://www.facebook.com/mediamoguluk
+[COLOR red]**************************************************[/COLOR]
+T.    https://twitter.com/mediamoguluk
+[COLOR red]**************************************************[/COLOR]
+I.    https://www.instagram.com/mediamoguluk/
+[COLOR red]**************************************************[/COLOR]
+L.    https://www.linkedin.com/in/mediamoguluk
+[COLOR red]**************************************************[/COLOR]
+[COLOR green]**************************************************[/COLOR]
+[COLOR cyan]**************************************************[/COLOR]
