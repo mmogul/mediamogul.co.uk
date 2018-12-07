@@ -1,6 +1,6 @@
 36
 |||
-[B]bold[/B] WELCOME TO MEDIA MOGUL STREAMING PLATFORM.
+[B]WELCOME TO MEDIA MOGUL STREAMING PLATFORM.[/B]
  
 Thank you for using Media Mogul Toolkit
 
@@ -30,5 +30,5 @@ https://www.instagram.com/mediamoguluk/
 **************************************************
 https://www.linkedin.com/in/mediamoguluk
 **************************************************
-
+[COLOR red]**************************************************[/COLOR]
 
