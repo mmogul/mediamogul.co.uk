@@ -6,7 +6,7 @@
 
 [B][COLOR pink]CURRENT BUILD ===>>>[/COLOR]  [B][COLOR green]v0.1[/COLOR][/B]
 
-[B][COLOR cyan]********************   NEWS   ********************[/COLOR][/B]
+[B][COLOR cyan]******************   NEWS   ******************[/COLOR][/B]
 
 MEDIA MOGUL WIZARD HAS BEEN UDATED TO TOOLKIT.
 USING THIS TOOLKIT YOU SHOULD DOWNLOAD
@@ -17,10 +17,10 @@ EVEN IF YOU HAVE v17!! GO TO THE APK INSTALLER
 IN THE TOOLKIT, CHOOSE "MM CORE APPS",
 THEN SELECT "MM v17 CORE APP"
 
-FOR OLD SLOW FIRESTICKS (GEN.1), THERE IS A "LITE" BUILD.
+FOR OLD SLOW FIRESTICKS (GEN.1), THERE IS A [B][COLOR yellow]"LITE"[/COLOR][/B] BUILD.
 FEEL FREE TO GIVE IT A TRY...
 
-[B][COLOR cyan]********************   NEWS   ********************[/COLOR][/B]
+[B][COLOR cyan]******************   NEWS   ******************[/COLOR][/B]
 
 
 [COLOR pink]PLEASE REGISTER ON OUR [B]FORUM....[/B][/COLOR]
