@@ -2,7 +2,7 @@
 |||
 [B]WELCOME TO MEDIA MOGUL STREAMING PLATFORM.[/B]
  
-[B][COLOR green]Thank you for using the Media Mogul Toolkit[/COLOR][/B]
+[B][COLOR yellow]Thank you for using the Media Mogul Toolkit[/COLOR][/B]
 
 
 
@@ -17,10 +17,13 @@ EVEN IF YOU HAVE v17!! GO TO THE APK INSTALLER
 IN THE TOOLKIT, CHOOSE "MM CORE APPS",
 THEN SELECT "MM v17 CORE APP"
 
+FOR OLD SLOW FIRESTICKS (GEN.1), THERE IS A "LITE" BUILD.
+FEEL FREE TO GIVE IT A TRY...
+
 [B][COLOR cyan]********************   NEWS   ********************[/COLOR][/B]
 
 
-PLEASE REGISTER ON OUR FORUM....
+PLEASE REGISTER ON OUR [B]FORUM....[/B]
 
 [COLOR yellow]SUPPORT US AT :---[/COLOR]
 
@@ -44,5 +47,5 @@ I.    https://www.instagram.com/mediamoguluk/
 L.    https://www.linkedin.com/in/mediamoguluk
 [COLOR red]**************************************************[/COLOR]
 [COLOR green]**************************************************[/COLOR]
-[COLOR BLUE]**************************************************[/COLOR]
+[COLOR blue]**************************************************[/COLOR]
 
