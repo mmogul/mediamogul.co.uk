@@ -1,6 +1,6 @@
 36
 |||
-[COLOR white][B]WELCOME TO MEDIA MOGUL STREAMING PLATFORM.
+WELCOME TO MEDIA MOGUL STREAMING PLATFORM.
  
 Thank you for using Media Mogul Toolkit
 
@@ -36,4 +36,4 @@ Email. info@mediamogul.co.uk
 **************************************************
 Tel. 08712340136
 **************************************************
-[/B][/COLOR]
+
