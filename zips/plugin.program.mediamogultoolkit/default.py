@@ -2369,6 +2369,6 @@ elif mode=='testnotify'     : testnotify()
 elif mode=='testupdate'     : testupdate()
 elif mode=='testfirst'      : testfirst()
 elif mode=='testfirstrun'   : testfirstRun()
-elif mode=='testapk'        : notify.apkInstaller('SPMC')
+elif mode=='testapk'        : notify.apkInstaller('app')
 
 xbmcplugin.endOfDirectory(int(sys.argv[1]))

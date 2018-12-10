@@ -6,7 +6,7 @@ import binascii
 #########################################################
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = 'Media Mogul Toolkit'
-EXCLUDES       = [ADDON_ID]
+EXCLUDES       = ['repository.mediamogul']
 # Text File with build info in it.
 BUILDFILE      = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/build.txt'
 # How often you would list it to check for build updates in days
@@ -20,7 +20,7 @@ YOUTUBEFILE    = 'http://'
 # Text File for addon installer.  Leave as 'http://' to ignore
 ADDONFILE      = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/addons.txt'
 # Text File for advanced settings.  Leave as 'http://' to ignore
-ADVANCEDFILE   = 'http://'
+ADVANCEDFILE   = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/advanced.txt'
 
 # Dont need to edit just here for icons stored locally
 PATH           = xbmcaddon.Addon().getAddonInfo('path')
@@ -70,7 +70,7 @@ THEME5         = '[COLOR '+COLOR1+']Current Theme:[/COLOR] [COLOR '+COLOR2+']%s[
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
 HIDECONTACT    = 'No'
 # You can add \n to do line breaks
-CONTACT        = 'Thank you for choosing Media Mogul Wizard.\r\n\r\nContact us, https://www.mediamogul.co.uk'
+CONTACT        = 'Thank you for choosing Media Mogul Streaming Platform.\r\n\r\nContact us, \r\n\r\nhttps://www.mediamogul.co.uk \r\n\r\ninfo@mediamogul.co.uk \r\n\r\nTel. 08712340136 \r\n\r\nInt. +448713240136'
 #Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON    = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcontact.png'
 CONTACTFANART  = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmsplashdark.png'
@@ -91,11 +91,11 @@ WIZARDFILE     = ''
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL    = 'No'
 # Addon ID for the repository
-REPOID         = ''
+REPOID         = 'repository.mediamogul'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = ''
+REPOADDONXML   = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL     = ''
+REPOZIPURL     = 'https://www.mediamogul.co.uk/repo'
 #########################################################
 
 #########################################################
@@ -107,7 +107,7 @@ ENABLE         = 'Yes'
 NOTIFICATION   = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/message.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE     = 'text'
-HEADERMESSAGE  = 'Media Mogul Pro'
+HEADERMESSAGE  = 'Media Mogul Toolkit'
 # url to image if using Image 424x180
 HEADERIMAGE    = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmptk.png'
 # Background for Notification Window
