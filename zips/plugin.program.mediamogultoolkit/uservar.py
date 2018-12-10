@@ -6,7 +6,7 @@ import binascii
 #########################################################
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = 'Media Mogul Toolkit'
-EXCLUDES       = ['repository.mediamogul']
+EXCLUDES       = [ADDON_ID, 'repository.mediamogul', 'My_Builds', 'backupdir']
 # Text File with build info in it.
 BUILDFILE      = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/build.txt'
 # How often you would list it to check for build updates in days

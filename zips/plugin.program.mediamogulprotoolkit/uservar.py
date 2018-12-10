@@ -14,7 +14,7 @@ BUILDERNAME    = 'Media Mogul Pro Toolkit'
 EXCLUDES       = [ADDON_ID, 'repository.mediamogul', 'My_Builds', 'backupdir']
 BUILDFILE      = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/build.txt'
 UPDATECHECK    = 0
-APKFILE        = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/apk.txt'
+APKFILE        = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/apkpro.txt'
 YOUTUBETITLE   = 'http://'
 YOUTUBEFILE    = 'http://'
 ADDONFILE      = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/addon.txt'
@@ -62,7 +62,7 @@ DES_T_COLOR = 'red'
 DESCOLOR = 'white'
 
 #Wizard title name and verion color
-WIZTITLE = 'Media Mogul Pro Toolkit / Wizard'
+WIZTITLE = 'Media Mogul Pro Toolkit'
 WIZTITLE_COLOR = 'white'
 VERTITLE_COLOR = 'white'
 VER_NUMBER_COLOR = 'red'
@@ -118,7 +118,7 @@ SPACER         = '='
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
 HIDECONTACT    = 'no'
 # You can add \n to do line breaks
-CONTACT        = 'Thank you for choosing Media Mogul Wizard.\r\n\r\nContact us, https://www.mediamogul.co.uk'
+CONTACT        = 'Thank you for choosing Media Mogul Streaming Platform.\r\n\r\nContact us, \r\n\r\nhttps://www.mediamogul.co.uk \r\n\r\ninfo@mediamogul.co.uk \r\n\r\nTel. 08712340136 \r\n\r\nInt. +448713240136'
 #Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON    = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmcontact.png'
 CONTACTFANART  = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmsplashdark.png'
@@ -139,11 +139,11 @@ WIZARDFILE     = 'http://'
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL    = 'No'
 # Addon ID for the repository
-REPOID         = ''
+REPOID         = 'repository.mediamogul'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'http://'
+REPOADDONXML   = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL     =  'http://'
+REPOZIPURL     =  'https://www.mediamogul.co.uk/repo'
 #########################################################
 
 #########################################################

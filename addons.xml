@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.mediamogul" name="Media Mogul Repo" version="1.0.4" provider-name="mediamogul">
+<addon id="repository.mediamogul" name="Media Mogul Repo" version="1.0.5" provider-name="mediamogul">
 	<extension point="xbmc.addon.repository" name="Media Mogul Repository">
 		<info compressed="false">https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/addons.xml.md5</checksum>
@@ -13,7 +13,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.program.mediamogulwizard" name="Media Mogul Wizard" version="1.0.5" provider-name="www.mediamogul.co.uk">
+<addon id="plugin.program.mediamogulwizard" name="Media Mogul Wizard" version="1.0.6" provider-name="www.mediamogul.co.uk">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="plugin.program.mediamogultoolkit" version="0.0.1"/>
@@ -23,12 +23,12 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Media Mogul Wizard</summary>
-    <description lang="en">Easy Install With KODI / XBMC Wizard.</description>
+    <description lang="en">Easy Install With KODI / XBMC.</description>
     <platform>all</platform>
   </extension>
 </addon>
 
-<addon id="plugin.program.mediamogultoolkit" name="Media Mogul Toolkit" version="0.0.1" provider-name="Media Mogul">
+<addon id="plugin.program.mediamogultoolkit" name="[COLOR red]Media Mogul Toolkit[/COLOR]" version="0.0.2" provider-name="Media Mogul">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -43,7 +43,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.mediamogulprotoolkit" name="Media Mogul Pro Toolkit" version="0.0.1" provider-name="Media Mogul">
+<addon id="plugin.program.mediamogulprotoolkit" name="[COLOR khaki]Media Mogul Pro Toolkit[/COLOR]" version="0.0.2" provider-name="Media Mogul">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -70,26 +70,6 @@
         <description>Media Mogul Urban Directory.</description>
         <platform>all</platform>
     </extension>
-</addon>
-
-<addon
-  id="plugin.video.ryanreggaendancehallmusic"
-  version="1.0.4"
-  name="Ryan Reggae n Dancehall music"
-  provider-name="Husham.com">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  	<import addon="script.module.buggalo" version="1.1.2"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video audio</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Addon made by Husham Memar and Ryan Lovinn Gemz </summary>
-    <description>The Ryan Lovinn Gemz Reggae n Dancehall music</description>
-    <platform>all</platform>
-  </extension>
 </addon>
 
 <addon id="script.mmogulmaintenance"
