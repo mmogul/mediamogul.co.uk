@@ -1,5 +1,4 @@
 import os, xbmc, xbmcaddon
-import binascii
 
 #########################################################
 ### User Edit Variables #################################
@@ -21,6 +20,8 @@ YOUTUBEFILE    = 'http://'
 ADDONFILE      = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/addons.txt'
 # Text File for advanced settings.  Leave as 'http://' to ignore
 ADVANCEDFILE   = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/wizard/advanced.txt'
+ROMPACK        = 'http://'
+EMUAPKS        = 'http://'
 
 # Dont need to edit just here for icons stored locally
 PATH           = xbmcaddon.Addon().getAddonInfo('path')
@@ -37,7 +38,9 @@ ART            = os.path.join(PATH, 'resources', 'art')
 # Leave as http:// for default icon
 ICONBUILDS     = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmbuilds.png'
 ICONMAINT      = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmmaint.png'
+ICONSPEED      = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmspeedtest.png'
 ICONAPK        = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmapks.png'
+ICONRETRO      = 'http://'
 ICONADDONS     = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmaddons.png'
 ICONYOUTUBE    = 'http://'
 ICONSAVE       = 'https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmsavedata.png'
