@@ -46,7 +46,7 @@ preview="http://"
 adult="No"
 description="V17 ONLY Light Build for original FIRESTICK Current Media Mogul Build--- Install or Restore MEDIA Mogul Custom Platform over the AIR"
 
-name="MM v17 LITE v2 Build"
+name="MM v17 LITE Extra Build"
 version="0.1"
 url="https://www.dropbox.com/s/duomt7kv436ip1w/latestv17-Litev2.zip?dl=1"
 gui="http://"
