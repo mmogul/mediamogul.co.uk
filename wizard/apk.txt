@@ -32,7 +32,7 @@ description="Red Box IPTV"
 
 name="CyberFlix"
 section="no"
-url="http://bit.ly/MMCyberF"
+url="https://www.dropbox.com/speedbump/dl/tr2bt16j5bwh01b/?content_link=https%3A%2F%2Fuc6be0203549369e80dd95f0145c.dl.dropboxusercontent.com%2Fcd%2F0%2Fget%2FAdXzcm9JzLP5GAZ-3TrWavSOSZYIl0-vKkoIsRKkmBdjxkXTqF7OMyuCwKoQyvFVvNdd97jTAhzo_BStQxY7g0J9AAleqrt3Lm9t2ppKMJa67pYtzMMk7VsP7ZEQeFVZhks%2Ffile%3Fdl%3D1%23&hmac=ACmwwjdvx7zSkSvNsBGBdl9dOIOBnrCNgA3FiqfiLVy-gw"
 icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
 adult="No"
