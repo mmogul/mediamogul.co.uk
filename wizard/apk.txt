@@ -36,7 +36,7 @@ url="http://bit.ly/MMCyberF"
 icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
 adult="No"
-description="CyberFlix Movies & TV Shows"
+description="CyberFlix"
 
 name="Mobdro"
 section="no"
