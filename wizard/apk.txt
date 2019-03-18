@@ -30,6 +30,14 @@ fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/
 adult="No"
 description="Red Box IPTV"
 
+name="CyberFlix"
+section="no"
+url="http://bit.ly/MMCyberF"
+icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
+adult="No"
+description="CyberFlix Movies & TV Shows"
+
 name="Mobdro"
 section="no"
 url="http://bit.ly/MMmobdro"
