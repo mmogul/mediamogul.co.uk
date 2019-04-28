@@ -141,3 +141,11 @@ icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mm
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
 adult="No"
 description="MX Player"
+
+name="Pornhub"
+section="no"
+url="http://bit.ly/MMPornHub"
+icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
+fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
+adult="No"
+description="Pornhub"
