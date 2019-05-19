@@ -14,7 +14,7 @@ fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/
 adult="No"
 description="MEDIA MOGUL V17.6 arm64"
 
-name="Media Mogul v18.1 32bit Core App"
+name="Media Mogul v18.2 32bit Core App"
 section="no"
 url="http://bit.ly/mmv18app"
 icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv18.png"
@@ -22,7 +22,7 @@ fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/
 adult="No"
 description="MEDIA MOGUL V18"
 
-name="Media Mogul v18.1 64bit Core App"
+name="Media Mogul v18.2 64bit Core App"
 section="no"
 url="https://www.dropbox.com/s/zcnxt3gon0zhvnm/0.%20Media%20Mogul%20v18%20x64.apk?dl=1"
 icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mminstrestv18.png"
