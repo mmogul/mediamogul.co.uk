@@ -1,6 +1,6 @@
 name="RedBox TV"
 section="no"
-url="http://bit.ly/MMRedbox"
+url="https://www.dropbox.com/s/45spfqwavolo9sa/9.%20RedBox%20TV.apk?dl=1"
 icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
 adult="No"
