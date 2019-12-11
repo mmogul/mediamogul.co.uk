@@ -32,9 +32,9 @@ description="Downloader"
 
 name="FileLinked"
 section="no"
-url="https://www.dropbox.com/s/bmz2xbbmxnnpz8r/3.%20Downloader.apk?dl=1"
-icon="https://www.filelinkedapk.com/wp-content/uploads/2019/12/latest-filelinked-codes.jpg"
-fanart="https://www.filelinkedapk.com/wp-content/uploads/2019/12/latest-filelinked-codes.jpg"
+url="https://www.dropbox.com/s/3ur63l1z7voel2m/3.%20Filelinked.apk?dl=1"
+icon="https://apktime.com/charts/filelinked.png"
+fanart="https://apktime.com/charts/filelinked.png"
 adult="No"
 description="FileLinked"
 
