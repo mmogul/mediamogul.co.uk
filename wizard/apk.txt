@@ -64,7 +64,7 @@ description="V-Sat IPTV"
 
 name="Tap TV"
 section="no"
-url="https://www.dropbox.com/s/bwnh1leot7k2hyg/6.%20TeaTV.apk?dl=1"
+url="https://www.dropbox.com/s/uz5eswd04fbh114/4.%20TVTAP.apk?dl=1"
 icon="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
 fanart="https://raw.githubusercontent.com/mmogul/mediamogul.co.uk/master/images/mmogul.png"
 adult="No"

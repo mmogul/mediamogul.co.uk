@@ -4,7 +4,7 @@
  
 [B][COLOR yellow]Thank you for using the Media Mogul Toolkit[/COLOR][/B]
 
-[B][COLOR pink]CURRENT BUILD ===>>>[/COLOR]  [B][COLOR green]v0.1[/COLOR][/B]
+[B][COLOR pink]CURRENT BUILD ===>>>[/COLOR]  [B][COLOR green]v0.2[/COLOR][/B]
 
 [B][COLOR cyan]******************   NEWS   ******************[/COLOR][/B]
 
