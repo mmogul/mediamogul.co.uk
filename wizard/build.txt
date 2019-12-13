@@ -96,7 +96,7 @@ description="V18 ONLY --- Install or Restore MEDIA Mogul Custom Platform over th
 
 name="MM v18 Standard Build"
 version="0.2"
-url="https://www.dropbox.com/s/vpd6ai4a1a1bq6w/latestv18.zip?dl=1"
+url="http://bit.ly/MMxV18STD"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -108,7 +108,7 @@ description="V18 ONLY --- Install or Restore MEDIA Mogul Custom Platform over th
 
 name="MM v18 PVR & IPTV Build"
 version="0.2"
-url="https://www.dropbox.com/s/vwvg171ku1wyzf8/latestv18-iptv.zip?dl=1"
+url="http://bit.ly/MMxV18IPTV"
 gui="http://"
 kodi="18.0"
 theme="http://"
