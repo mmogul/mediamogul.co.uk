@@ -95,7 +95,7 @@ adult="No"
 description="V18 ONLY --- Install or Restore MEDIA Mogul Custom Platform over the AIR"
 
 name="MM v18 Standard Build"
-version="0.2"
+version="0.3"
 url="http://bit.ly/MMxV18STD"
 gui="http://"
 kodi="18.0"
